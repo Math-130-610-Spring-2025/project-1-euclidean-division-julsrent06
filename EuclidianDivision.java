@@ -2,12 +2,12 @@ import java.util.Scanner;
 public class EuclidianDivision{
     public static void main(String[] args){
         int divisor;
-        Scanner input = new Scanner(System.in)
+        Scanner input = new Scanner(System.in);
         int num = input.nextInt(divisor);
         
         int dividend;
         int num = input.nextInt(dividend);
-        System.out.println("Enter a divisor and dividend")
+        System.out.println("Enter a divisor and dividend");
        
         
         
